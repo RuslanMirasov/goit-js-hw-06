@@ -57,3 +57,11 @@ button {
       width: 100%;
    }
 }
+
+#boxes {
+   display: flex;
+   flex-wrap: wrap;
+   align-items: flex-end;
+   gap: 10px;
+   margin-top: 20px;
+}
